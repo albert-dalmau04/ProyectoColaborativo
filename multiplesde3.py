@@ -5,7 +5,9 @@ while num != 100:
     num += 1
 
     if num%3 == 0 and num%5 == 0:
-        print("Madrid")
+
+        print("Girona")
+
 
     elif num%3 == 0:
 
