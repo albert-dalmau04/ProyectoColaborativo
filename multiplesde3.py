@@ -5,11 +5,15 @@ while num != 100:
     num += 1
 
     if num%3 == 0 and num%5 == 0:
-        print("Barcelona")
+
+
+        print("Girona")
+
+
 
     elif num%3 == 0:
 
-        print("Coca")
+        print("Fizz")
 
     elif num%5 == 0:
 
