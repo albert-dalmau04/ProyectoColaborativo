@@ -9,7 +9,7 @@ while num != 100:
 
     elif num%3 == 0:
 
-        print("Coca")
+        print("Fizz")
 
     elif num%5 == 0:
 
