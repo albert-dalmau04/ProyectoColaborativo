@@ -13,7 +13,7 @@ while num != 100:
 
     elif num%5 == 0:
 
-        print("Cola")
+        print("Buzz")
 
     else:
         print(num)
